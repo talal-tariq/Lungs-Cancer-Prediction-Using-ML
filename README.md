@@ -10,6 +10,7 @@ Lung cancer detection is a critical task in medical imaging. To make the diagnos
 Normal: Images showing healthy lung tissues.
 Benign: Images of non-cancerous, but abnormal lung growths.
 Malignant: Images indicating the presence of cancerous cells.
+
 **Key Steps in the Process:**
 Preprocessing: The dataset was first preprocessed to ensure consistency and quality of the images.
 Feature Engineering: Relevant features were extracted from the images to improve the model’s accuracy.
